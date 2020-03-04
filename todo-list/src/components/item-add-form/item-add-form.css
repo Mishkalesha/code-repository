@@ -1,0 +1,10 @@
+.item-add-form {
+  margin-top: 10px;
+}
+
+.form-control{
+  margin-right: 5px;
+  padding: .37rem .75rem;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+}
